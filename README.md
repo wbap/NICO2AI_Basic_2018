@@ -30,13 +30,13 @@
 * Lecture 1：ガイダンス、脳と人工知能、Python操作基礎
 * Lecture 2：機械学習入門
 * Lecture 3：線形回帰
-# Lecture 4：scikit-learn入門
-# Lecture 5：勾配法と誤差逆伝搬法
-# Special Lecture：深層学習ライブラリー（Chainer）入門
-# Lecture 6：畳込みニューラルネットワーク（1）
-# Lecture 7：畳込みニューラルネットワーク（2）
-# Lecture 8: 自己符号器と生成モデル
-# Lecture 9：再帰的ニューラルネットワーク（1）
-# Lecture 10：再帰的ニューラルネットワーク（2）
-# Lecture 11：強化学習（1）
-# Lecture 12：強化学習（2）、コネクトームから作る人工ニューラルネット
+* Lecture 4：scikit-learn入門
+* Lecture 5：勾配法と誤差逆伝搬法
+* Special Lecture：深層学習ライブラリー（Chainer）入門
+* Lecture 6：畳込みニューラルネットワーク（1）
+* Lecture 7：畳込みニューラルネットワーク（2）
+* Lecture 8: 自己符号器と生成モデル
+* Lecture 9：再帰的ニューラルネットワーク（1）
+* Lecture 10：再帰的ニューラルネットワーク（2）
+* Lecture 11：強化学習（1）
+* Lecture 12：強化学習（2）、コネクトームから作る人工ニューラルネット
