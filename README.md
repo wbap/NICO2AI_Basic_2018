@@ -20,7 +20,7 @@
 * Special Lecture：深層学習ライブラリー（Chainer）入門
 * Lecture 6：畳込みニューラルネットワーク（1）
 * Lecture 7：畳込みニューラルネットワーク（2）
-* Lecture 8: 自己符号器と生成モデル
+* Lecture 8：自己符号器と生成モデル
 * Lecture 9：再帰的ニューラルネットワーク（1）
 * Lecture 10：再帰的ニューラルネットワーク（2）
 * Lecture 11：強化学習（1）
