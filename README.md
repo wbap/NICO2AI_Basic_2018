@@ -27,9 +27,9 @@
 
 ニコニコAIスクール「脳型人工知能開発者入門コース」
 
-##### Lecture 1：ガイダンス、脳と人工知能、Python操作基礎
-##### Lecture 2：機械学習入門
-##### Lecture 3：線形回帰
+* Lecture 1：ガイダンス、脳と人工知能、Python操作基礎
+* Lecture 2：機械学習入門
+* Lecture 3：線形回帰
 # Lecture 4：scikit-learn入門
 # Lecture 5：勾配法と誤差逆伝搬法
 # Special Lecture：深層学習ライブラリー（Chainer）入門
