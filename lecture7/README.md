@@ -7,6 +7,12 @@
 * フィルタ及び特徴マップの可視化を通じて、学習済みのCNNがどのような性質を持つかを垣間見る
 * CNNの進化を通じて、CNNと視覚情報処理との類似点・相違点を理解する
 
+## キーワード
+* 一般物体認識
+* Data Augmentation
+* DeConcolution/Unpooling
+* GoogLeNet/VGGNet/ResNet
+
 ## 参考文献
 ### CS231n: CS231n: Convolutional Neural Networks for Visual Recognition
 http://cs231n.stanford.edu/
