@@ -8,6 +8,21 @@
 * OpenAI Gymの基本的な使い方を覚える
 * Q-learningを用いて簡単な強化学習問題 (Cartpole) が解ける
 
+## キーワード
+* 強化学習 (Reinforcemnt Learning)
+* 状態・行動・報酬・方策
+* マルコフ決定過程 (MDP)
+* 収益・割引率・価値関数・行動価値関数
+* Bellman方程式
+* TD-learning・Q-learning・Actor-Critic
+* 方策オン型・オフ型
+* OpenAI Gym
+* greedy法、ε-greedy法
+* Cartpole
+* 多腕バンディット問題
+* 大脳基底核
+* 線条体
+
 ## 参考文献
 * 牧野他『これからの強化学習』(森北出版、2016)
 
