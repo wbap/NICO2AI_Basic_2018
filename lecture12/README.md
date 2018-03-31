@@ -2,11 +2,28 @@
 # 第12回：強化学習 (2)
 
 ## 到達目標
-* 強化学習の問題設定と、教師あり学習との違いについて説明できる
-* 強化学習問題の用語を覚える
-* 価値反復に基づく学習アルゴリズムを理解し、実装できる
-* OpenAI Gymの基本的な使い方を覚える
-* Q-learningを用いて簡単な強化学習問題 (Cartpole) が解ける
+* 方策勾配法の問題設定と用途を知る
+* 深層強化学習の仕組みとその意義を知る
+* DQNの学習アルゴリズムを理解し、実行できる
+* ChainerRLを用いてNNベースのエージェントを記述できる
+
+## キーワード
+* 方策勾配法
+* 方策勾配定理
+* Actor-Critic
+* 深層強化学習
+* Deep Q-Network (DQN)
+* Experience Replay
+* A3C, TRPO
 
 ## 参考文献
 * 牧野他『これからの強化学習』(森北出版、2016)
+
+* Tutorial: Deep Reinforcement Learning
+http://icml.cc/2016/tutorials/deep\_rl\_tutorial.pdf
+
+* 深層強化学習の動向 / survey of deep reinforcement learning
+https://speakerdeck.com/takuseno/survey-of-deep-reinforcement-learning
+
+* ChainerRL Quickstart Guide
+https://github.com/chainer/chainerrl/blob/master/examples/quickstart/quickstart.ipynb
