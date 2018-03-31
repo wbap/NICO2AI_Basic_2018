@@ -8,6 +8,14 @@
 * RNN特有の学習テクニックを理解し、正しく使用できる
 * RNNの用途とより高度の使い方を知る
 
+## キーワード
+* Long Short-Term Memory (LSTM)
+* 長期依存/短期依存
+* 勾配爆発 (消失) 問題
+* Gradient Clipping
+* Neural Turing Machine (NTM)
+* Differential Neural Computers (DNC)
+
 ## 参考文献
 * わかるLSTM ～ 最近の動向と共に
 http://qiita.com/t\_Signull/items/21b82be280b46f467d1b
