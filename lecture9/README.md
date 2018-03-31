@@ -8,6 +8,12 @@
 * 誤差逆伝播法よりBiologically-Plausibleなアルゴリズムとして、ESN及びLSMの原理を学ぶ
 * Numpyを用いてESNのモデルを記述できる
 
+## キーワード
+* Recurrent Neural Network (RNN)
+* Elman Network
+* Back Propagation Throught Time (BPTT)
+* Echo State Network (ESN)
+
 ## 参考文献
 * 詳解ディープラーニング 巣籠 悠輔
 * (Elman, 1990) Finding Structure in Time
